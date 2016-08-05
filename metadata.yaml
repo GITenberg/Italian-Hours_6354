@@ -1,0 +1,42 @@
+_repo: Italian-Hours_6354
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: "Italian Hours is a book of travel writing by Henry James published in\
+  \ 1909. The book collected essays that James had written over nearly forty years\
+  \ about a country he knew and loved well. James extensively revised and sometimes\
+  \ expanded the essays to create a more consistent whole. He also added two new essays\
+  \ and an introduction.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6354'
+  wikidata: Q3885500
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Italy -- Description and travel'
+- !lcsh 'James, Henry, 1843-1916 -- Travel -- Italy'
+- GITenberg
+tableOfContents: 'Venice -- The Grand Canal -- Venice : an early impression -- Two
+  old houses and three young women -- Casa Alvisi -- From Chambéry to Milan -- The
+  old Saint-Gothard leaves from a note-book -- Italy revisited -- A Roman holiday
+  -- Roman rides -- Roman neighbourhoods -- The after-season in Rome -- From a Roman
+  note-book -- A few other Roman neighbourhoods -- A chain of cities -- Siena early
+  and late -- The autumn in Florence -- Florentine notes -- Tuscan cities -- Other
+  Tuscan cities -- Ravenna -- The saint''s afternoon and others.'
+title: Italian Hours
+url: http://www.gutenberg.org/ebooks/6354
+wikipedia:
+- https://en.wikipedia.org/wiki/Italian_Hours
+- https://it.wikipedia.org/wiki/Ore_italiane
+- https://pt.wikipedia.org/wiki/Italian_Hours
