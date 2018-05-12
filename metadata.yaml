@@ -1,5 +1,8 @@
 _repo: Italian-Hours_6354
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -13,6 +16,8 @@ description: "Italian Hours is a book of travel writing by Henry James published
   \ about a country he knew and loved well. James extensively revised and sometimes\
   \ expanded the essays to create a more consistent whole. He also added two new essays\
   \ and an introduction.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6354#Italian-Hours
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
